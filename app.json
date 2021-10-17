@@ -1,14 +1,14 @@
 {
-    "name": "Auto Filter Bot",
+    "name": "Bot Tech Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
     "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "Movie_Launchers"
     ],
-    "website": "https://TroJanzHEX.me",
+    "😇Join Group😇", url="https://t.me/Movie_Launchers",
     "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {

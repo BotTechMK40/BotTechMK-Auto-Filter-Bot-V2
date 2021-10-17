@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                            "😇Join Channel😇 ", url="https://t.me/MKS_Movies")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                            "😇Join Group😇", url="https://t.me/Movie_Launchers")
                     ]
                 ]
             ),
@@ -67,8 +67,7 @@ async def about(client, message):
                         InlineKeyboardButton("START", callback_data="start_data"),
                     ],
                     [
-                        InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2")
+                      
                     ]
                 ]
             ),
